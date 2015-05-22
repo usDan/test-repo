@@ -8,3 +8,4 @@ line4 changed
 line5
 >>>>>>> 033c83a2266becbee2b610a32803f4892b566603
 line5
+line 6 added
